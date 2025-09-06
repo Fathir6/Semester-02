@@ -7,4 +7,4 @@ buat branch dlu baru buat file
 
 commit branch
 
-mana pull request nya
+mana pull request nya "Kurang tau"
